@@ -1,3 +1,3 @@
 ## rythmevertical website
 
-Personnal website
+Personnal website: <https://www.rythmevertical.com/>
